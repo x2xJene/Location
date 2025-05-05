@@ -1,4 +1,4 @@
-# 🚀 استخدام Cloudflare Tunnel :
+# 🚀 Use Cloudflare Tunnel :
 Devloper : X91
 ## Links (File download links)
 
